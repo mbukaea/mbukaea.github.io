@@ -1,0 +1,4 @@
+\ForceHTMLPage
+\chapter*{Videos}\label{sec:videos}
+\phantomsection \addcontentsline{toc}{chapter}{Videos}
+videoinsert
